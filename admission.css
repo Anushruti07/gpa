@@ -1,5 +1,44 @@
+.adm{
+    background:#fff;
+    padding:50px;
+}
 .adm1{
     background:#fff;
-    padding:50px 0;
     text-align:center;
+    animation-name:a1;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    animation-timing-function: ease-in-out;
+}
+@keyframes a1{
+    from{
+        letter-spacing:20px;
+        opacity:0;
+    }
+    to{
+        letter-spacing: 1px;
+        opacity:1;
+    }
+}
+.adm2 table{
+    width:100%;
+}
+.adm2 table tr th{
+    border:solid 1px #fff;
+    padding:15px;
+}
+.adm2 table tr td{
+    border:solid 1px lightgrey;
+    padding:15px;
+    
+}
+.adm2 tr td:nth-child(even){
+    text-align:right;
+}
+.adm2 table tr:first-child{
+    background:#C25B56;
+    color:#fff;
+}
+.adm2 table tr:last-child{
+    font-weight:bold;
 }
