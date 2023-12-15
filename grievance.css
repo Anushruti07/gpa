@@ -1,0 +1,16 @@
+.grieve{
+    background:#fff;
+    padding:50px;
+    text-align:center;
+}
+.grieve1{
+    background:#fff;
+    padding:50px;
+}
+.grieve1 a:link,.grieve a:visited{
+    color:#B0544F;
+    text-decoration:none;
+    font-weight:700;
+    padding:10px 20px;
+    border:solid 1px lightgrey;
+}

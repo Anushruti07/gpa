@@ -1,0 +1,12 @@
+.gal{
+    background:#fff;
+    padding:50px;
+    text-align:center;
+}
+.gallery{
+    background:#fff;
+    padding:20px;
+}
+.gallery img{
+    width:100%;
+}

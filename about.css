@@ -1,23 +1,8 @@
-.about1{
+.about{
     background: #fff;
-    padding:50px 0 10px 0;
+    padding:50px;
     text-align:center;
-    animation-name:a1;
-    animation-duration:2s;
-    animation-delay: 1s;
-    animation-timing-function: ease-in-out;
 }
-@keyframes a1{
-    from{
-        letter-spacing:20px;
-        opacity:0;
-    }
-    to{
-        letter-spacing:1px;
-        opacity:1;
-    }
-}
-.about2{
-    background:#fff;
-    padding:0 0 50px 0;
+.about h4,.about p{
+    text-align:left;
 }

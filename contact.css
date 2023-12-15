@@ -1,22 +1,5 @@
 .con{
     background:#fff;
     padding:50px;
-}
-.con1{
-    background:#fff;
     text-align:center;
-    animation-name:a1;
-    animation-duration: 2s;
-    animation-delay: 1s;
-    animation-timing-function: ease-in-out;
-}
-@keyframes a1{
-    from{
-        letter-spacing:20px;
-        opacity:0;
-    }
-    to{
-        letter-spacing: 1px;
-        opacity:1;
-    }
 }
