@@ -26,7 +26,7 @@ body{
 }
 .menuarea{
     background:#F8F9FA;
-    text-align:center;
+    text-align:left;
 }
 .animation h2{
     animation-name:anim;
