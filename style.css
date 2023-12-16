@@ -28,6 +28,9 @@ body{
     background:#F8F9FA;
     text-align:left;
 }
+.animation{
+    text-align:center;
+}
 .animation h2{
     animation-name:anim;
     animation-duration:2s;
